@@ -1,5 +1,5 @@
 # Image to Blog
-- Fun Project to Create a blog from an uploaded images using Gemini Pro Vision Model.<br> 
+- Fun Project to Create a blog from an uploaded image using Gemini Pro Vision Model.<br> 
 - Upload an image and generate a mini blog using the generative model. 
 #
 - <b>Gemini Pro Vision + Streamlit</b>
