@@ -14,14 +14,25 @@
 - Create an API_KEY for the model to run
 - Start the app: `streamlit run main.py`
 
-# Screenshot
+# Screenshots
 <picture>
    <img src="images/image1.PNG" width="695" height="875">
 </picture>
-<img src="images/image2.PNG" width="678" height="837">
-<img src="images/image3.PNG" width="670" height="858">
-<img src="images/image4.PNG" width="694" height="884">
-<img src="images/image5.PNG" width="694" height="884">
+<picture>
+   <img src="images/image2.PNG" width="678" height="837">
+</picture>
+   
+<picture>
+   <img src="images/image3.PNG" width="670" height="858">
+</picture>
+
+<picture>
+   <img src="images/image4.PNG" width="694" height="884">
+</picture>
+
+<picture>
+   <img src="images/image5.PNG" width="694" height="884">
+</picture>
 
 #
 
